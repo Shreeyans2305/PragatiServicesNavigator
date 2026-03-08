@@ -67,10 +67,15 @@ function App() {
                   Register with your email to access all functionality
                 </li>
               </ol>
-              <a href="#" className="cta-button android-button">📥 Download Android APK</a>
+              <a href="/app-release.apk" download="PragatiConnect.apk" className="cta-button android-button">
+                📥 Download Android APK
+              </a>
+              <div className="note">
+                <strong>Note:</strong> Ensure you have at least 100MB of free storage.
+              </div>
             </div>
 
-            {/* iOS Guide */}
+            {/* iOS Guide */ }
             <div className="platform-card ios-card">
               <div className="platform-header">
                 <span className="platform-icon">🍎</span>
