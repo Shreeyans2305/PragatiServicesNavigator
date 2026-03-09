@@ -142,7 +142,7 @@ function App() {
               <div className="repo-link">
                 📦 <strong>Repository:</strong>{' '}
                 <a href="https://github.com/Shreeyans2305/PragatiConnect" target="_blank" rel="noopener noreferrer">
-                  github.com/your-username/PragatiConnect
+                  github.com/Shreeyans2305/PragatiConnect
                 </a>
               </div>
               <div className="note">
