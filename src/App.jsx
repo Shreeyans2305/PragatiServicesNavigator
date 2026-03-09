@@ -86,7 +86,7 @@ function App() {
                 Requires technical setup with Flutter development environment and Apple Developer Program enrollment.
               </p>
               <div className="warning-box">
-                ⚠️ iOS testing requires a laptop (Mac/Windows/Linux) with Flutter installed, 
+                ⚠️ iOS testing requires a laptop (Mac) with Flutter installed, 
                 an iPhone, and enrollment in Apple Developer Beta Program. This is a more technical process.
               </div>
               <ol className="steps">
