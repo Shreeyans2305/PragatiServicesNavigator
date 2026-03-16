@@ -15,7 +15,7 @@ function App() {
           <section className="services-intro">
             <h2>Our Primary Services</h2>
             <p>
-              For this hackathon, we've developed <strong>two innovative services</strong> designed to empower 
+              We've developed <strong>two innovative services</strong> designed to empower 
               India's 450+ million informal workers—including construction workers, domestic helpers, street vendors, 
               and gig workers—who often face exploitation due to lack of information about fair wages and available 
               government support. Our solutions provide accessible, multilingual tools to help them negotiate better 
