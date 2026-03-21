@@ -216,11 +216,20 @@ function App() {
                 Watch a video demonstration of the Pragati Connect app in
                 action.
               </p>
-              <div className="video-container" style={{textAlign:"center"}}>
-                <video width="750" height="500" controls>
-                  <source src="/DemoVideo.MP4" type="video/mp4" />
-                  Your browser does not support the video tag.
-                </video>
+              <div
+                className="video-container"
+                style={{ display: "flex", justifyContent: "center" }}
+              >
+                <iframe
+                  width="338"
+                  height="700"
+                  src="https://www.youtube.com/embed/oRGBB1MmoZY"
+                  title="Pragati Connect Demo"
+                  frameBorder="0"
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                  allowFullScreen
+                  style={{ borderRadius: "16px", maxWidth: "100%" }}
+                />
               </div>
             </div>
           </section>
