@@ -5,7 +5,7 @@ function App() {
     <div className="app">
       <div className="container">
         <header className="header">
-          <h1>🌟 Welcome to Pragati Connect 🌟</h1>
+          <h1>Welcome to Pragati Connect</h1>
           <p>
             Empowering India's 450+ million informal workers with AI-powered
             economic assistance
